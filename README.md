@@ -1,4 +1,5 @@
 # 書籍「AI時代のスポーツアナリティクス」のサンプルコード
+Sample codes for the book "AI時代のスポーツアナリティクス" written by Keisuke Fujii
 
 ## Section 5.2.2 
 5.2.2_Soccer_Track_Challenge_2025.ipynb
