@@ -1,7 +1,7 @@
 # 書籍「AI時代のスポーツアナリティクス」サンプルコード
 Sample codes for the book "AI時代のスポーツアナリティクス" written by Keisuke Fujii
 
-Publisher: [東京大学出版会](https://www.utp.or.jp/book/b10160785.html))
+Publisher: [東京大学出版会](https://www.utp.or.jp/book/b10160785.html)
 
 ## Section 5.2.2 
 [5.2.2_Soccer_Track_Challenge_2025.ipynb](https://github.com/open-starlab/book-colab-jp-2026/blob/main/5.2.2_Soccer_Track_Challenge_2025.ipynb)
