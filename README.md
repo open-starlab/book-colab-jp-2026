@@ -16,4 +16,4 @@ Publisher: [東京大学出版会](https://www.utp.or.jp/book/b10160785.html)
 [5.5_Soccer Trajectory Prediction Challenge 2025.ipynb](https://github.com/open-starlab/book-colab-jp-2026/blob/main/5.5_Soccer%20Trajectory%20Prediction%20Challenge%202025.ipynb)
 
 ## Section 5.6
-[5.6_Soccer_Reinforcement_Learning_OpenSTARLab.ipynb]()
+[5.6_Soccer_Reinforcement_Learning_OpenSTARLab.ipynb](https://github.com/open-starlab/book-colab-jp-2026/blob/main/5_6_Soccer_Reinforcement_Learning_OpenSTARLab.ipynb)
